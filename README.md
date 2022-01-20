@@ -1,1 +1,25 @@
-<video playsinline="" controls="" preload="metadata" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/53f93860-3195-4519-9986-98321622bbdb/todo.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220120%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20220120T143019Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=697e923ea069a334959f6b5ce6f8eb36b42eb9533ff49f0914670ca700735f4b&amp;X-Amz-SignedHeaders=host&amp;x-id=GetObject" style="display: block; width: 100%; pointer-events: none; background-color: rgb(63, 68, 71);"></video>
+# 😸 About the project App to do (Rocketseat)
+
+create an application to train what you have learned so far in React Native.
+
+This will be a task reminder application, where you will train a little more about state manipulation in React.
+The application's features are:
+
+* Task count;
+* Add a new task;
+* Remove a task;
+* Mark and unmark a task as complete.
+
+## 🚀 Technologies
+
+* React Native
+* Typescript
+* React-native-linear-gradient
+* React-native-vector-icons
+
+## Interface
+<p align="center">
+<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689421.png" width="20%" />
+<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689477.png" width="20%" />
+<img src="https://github.com/poliveira13/appToDo/blob/main/.github/assets/Screenshot_1642689491.png" width="20%" />
+</p>
